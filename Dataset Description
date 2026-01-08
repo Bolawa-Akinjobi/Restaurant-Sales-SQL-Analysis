@@ -1,0 +1,16 @@
+** Restaurant-Sales-SQL-Analysis **
+│
+├── README.md
+├── data/
+│   ├── menu_items.csv
+│   └── order_details.csv
+│
+├── sql/
+│   ├── create_tables.sql
+│   ├── exploratory_analysis.sql
+│   └── business_questions.sql
+│
+├── insights/
+│   └── insights.md
+│
+└── visuals/   (optional, for charts/screenshots)
